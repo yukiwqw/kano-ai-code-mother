@@ -1,4 +1,7 @@
-package com.yupi.yuaicodemother.exception;
+package com.yupi.yuaicodemother.utils;
+
+import com.yupi.yuaicodemother.exception.BusinessException;
+import com.yupi.yuaicodemother.exception.ErrorCode;
 
 public class ThrowUtils {
 
